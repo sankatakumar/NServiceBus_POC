@@ -1,0 +1,369 @@
+﻿2016-11-22 04:59:18.279 INFO  DefaultFactory Logging to 'H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Settle\bin\Debug\' with level Info
+2016-11-22 04:59:18.511 INFO  NServiceBus.LicenseManager License expires on 21/12/2016 12:00:00 AM
+2016-11-22 04:59:20.755 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'PETSURE\kumars' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "PETSURE\kumars" /add
+2016-11-22 04:59:20.805 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 04:59:20.813 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 04:59:20.820 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:01:19.200 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2016-11-22 05:01:19.231 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2016-11-22 05:06:37.942 INFO  DefaultFactory Logging to 'H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Settle\bin\Debug\' with level Info
+2016-11-22 05:06:38.163 INFO  NServiceBus.LicenseManager License expires on 21/12/2016 12:00:00 AM
+2016-11-22 05:06:38.331 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'PETSURE\kumars' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "PETSURE\kumars" /add
+2016-11-22 05:06:38.384 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:06:38.391 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:06:38.397 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:07:17.019 INFO  DefaultFactory Logging to 'H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Settle\bin\Debug\' with level Info
+2016-11-22 05:07:17.197 INFO  NServiceBus.LicenseManager License expires on 21/12/2016 12:00:00 AM
+2016-11-22 05:07:17.364 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'PETSURE\kumars' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "PETSURE\kumars" /add
+2016-11-22 05:07:17.426 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:07:17.438 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:07:17.448 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:08:54.953 INFO  DefaultFactory Logging to 'H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Settle\bin\Debug\' with level Info
+2016-11-22 05:08:55.204 INFO  NServiceBus.LicenseManager License expires on 21/12/2016 12:00:00 AM
+2016-11-22 05:08:55.390 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'PETSURE\kumars' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "PETSURE\kumars" /add
+2016-11-22 05:08:55.451 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:08:55.460 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:08:55.468 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:09:02.393 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2016-11-22 05:09:02.430 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2016-11-22 05:09:23.373 INFO  DefaultFactory Logging to 'H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Settle\bin\Debug\' with level Info
+2016-11-22 05:09:23.565 INFO  NServiceBus.LicenseManager License expires on 21/12/2016 12:00:00 AM
+2016-11-22 05:09:23.738 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'PETSURE\kumars' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "PETSURE\kumars" /add
+2016-11-22 05:09:23.808 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:09:23.815 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:09:23.823 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:09:33.518 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2016-11-22 05:09:33.548 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2016-11-22 05:09:50.795 INFO  DefaultFactory Logging to 'H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Settle\bin\Debug\' with level Info
+2016-11-22 05:09:50.998 INFO  NServiceBus.LicenseManager License expires on 21/12/2016 12:00:00 AM
+2016-11-22 05:09:51.176 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'PETSURE\kumars' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "PETSURE\kumars" /add
+2016-11-22 05:09:51.235 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:09:51.243 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:09:51.257 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:10:54.398 INFO  DefaultFactory Logging to 'H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Settle\bin\Debug\' with level Info
+2016-11-22 05:10:54.600 INFO  NServiceBus.LicenseManager License expires on 21/12/2016 12:00:00 AM
+2016-11-22 05:10:54.777 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'PETSURE\kumars' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "PETSURE\kumars" /add
+2016-11-22 05:10:54.845 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:10:54.855 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:10:54.865 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:11:09.216 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2016-11-22 05:11:09.248 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2016-11-22 05:12:16.123 INFO  DefaultFactory Logging to 'H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Settle\bin\Debug\' with level Info
+2016-11-22 05:12:16.319 INFO  NServiceBus.LicenseManager License expires on 21/12/2016 12:00:00 AM
+2016-11-22 05:12:16.462 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'PETSURE\kumars' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "PETSURE\kumars" /add
+2016-11-22 05:12:16.520 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:12:16.529 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:12:16.538 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:12:46.474 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2016-11-22 05:12:46.502 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2016-11-22 05:25:44.012 INFO  DefaultFactory Logging to 'H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Settle\bin\Debug\' with level Info
+2016-11-22 05:25:44.208 INFO  NServiceBus.LicenseManager License expires on 21/12/2016 12:00:00 AM
+2016-11-22 05:25:44.361 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'PETSURE\kumars' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "PETSURE\kumars" /add
+2016-11-22 05:25:44.423 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:25:44.433 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:25:44.443 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:26:03.028 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Q_OB_SETTLE_DEV MessagePump' is now in the armed state
+2016-11-22 05:26:03.031 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Q_OB_SETTLE_DEV.Retries MessagePump' is now in the armed state
+2016-11-22 05:26:03.064 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Q_OB_SETTLE_DEV.TimeoutsDispatcher MessagePump' is now in the armed state
+2016-11-22 05:26:03.035 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Q_OB_SETTLE_DEV.Timeouts MessagePump' is now in the armed state
+2016-11-22 05:26:12.940 INFO  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Q_OB_SETTLE_DEV.Retries MessagePump' is now disarmed
+2016-11-22 05:26:12.973 INFO  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Q_OB_SETTLE_DEV MessagePump' is now disarmed
+2016-11-22 05:26:29.644 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Q_OB_SETTLE_DEV.Retries MessagePump' is now in the armed state
+2016-11-22 05:26:29.796 WARN  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Q_OB_SETTLE_DEV MessagePump' is now in the armed state
+2016-11-22 05:26:30.007 INFO  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Q_OB_SETTLE_DEV.TimeoutsDispatcher MessagePump' is now disarmed
+2016-11-22 05:26:30.028 INFO  NServiceBus.Transport.RabbitMQ.MessagePumpConnectionFailedCircuitBreaker The circuit breaker for 'Q_OB_SETTLE_DEV.Timeouts MessagePump' is now disarmed
+2016-11-22 05:29:40.552 INFO  DefaultFactory Logging to 'H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Settle\bin\Debug\' with level Info
+2016-11-22 05:29:40.781 INFO  NServiceBus.LicenseManager License expires on 21/12/2016 12:00:00 AM
+2016-11-22 05:29:40.953 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'PETSURE\kumars' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "PETSURE\kumars" /add
+2016-11-22 05:29:41.011 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:29:41.020 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:29:41.026 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:33:42.999 INFO  DefaultFactory Logging to 'H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Settle\bin\Debug\' with level Info
+2016-11-22 05:33:43.184 INFO  NServiceBus.LicenseManager License expires on 21/12/2016 12:00:00 AM
+2016-11-22 05:33:43.423 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'PETSURE\kumars' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "PETSURE\kumars" /add
+2016-11-22 05:33:43.490 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:33:43.504 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 05:33:43.519 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 11:28:53.487 INFO  DefaultFactory Logging to 'H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Settle\bin\Debug\' with level Info
+2016-11-22 11:28:55.288 INFO  NServiceBus.LicenseManager License expires on 21/12/2016 12:00:00 AM
+2016-11-22 11:28:55.704 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'PETSURE\kumars' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "PETSURE\kumars" /add
+2016-11-22 11:28:57.603 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 11:28:58.256 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 11:28:59.589 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 11:29:35.160 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2016-11-22 11:29:35.189 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2016-11-22 11:56:33.912 INFO  DefaultFactory Logging to 'H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Settle\bin\Debug\' with level Info
+2016-11-22 11:56:38.051 INFO  NServiceBus.LicenseManager License expires on 21/12/2016 12:00:00 AM
+2016-11-22 11:56:38.351 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'PETSURE\kumars' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "PETSURE\kumars" /add
+2016-11-22 11:56:38.428 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 11:56:38.442 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 11:56:38.453 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 11:57:56.452 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2016-11-22 11:57:56.547 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2016-11-22 12:02:03.574 INFO  DefaultFactory Logging to 'H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Settle\bin\Debug\' with level Info
+2016-11-22 12:02:07.634 INFO  NServiceBus.LicenseManager License expires on 21/12/2016 12:00:00 AM
+2016-11-22 12:02:08.488 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'PETSURE\kumars' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "PETSURE\kumars" /add
+2016-11-22 12:02:08.571 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 12:02:08.587 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 12:02:08.597 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 12:03:51.661 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message '80b73c73-dd14-4257-8370-a6c600c661c1' because of an exception:
+System.Exception: Unhandled exception
+   at OrchestrationBus.Settle.SettleModelHandler.Handle(SettleModel message, IMessageHandlerContext context) in H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Settle\SettleModelHandler.cs:line 36
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\Build\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 39
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\Build\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\Build\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MutateIncomingMessageBehavior.<Invoke>d__0.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\MutateInstanceMessage\MutateIncomingMessageBehavior.cs:line 28
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.<Invoke>d__0.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\MutateTransportMessage\MutateIncomingTransportMessageBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.UnitOfWorkBehavior.<Invoke>d__0.MoveNext() in C:\Build\src\NServiceBus.Core\UnitOfWork\UnitOfWorkBehavior.cs:line 26
+--- End of stack trace from previous location where exception was thrown ---
+   at NServiceBus.UnitOfWorkBehavior.<Invoke>d__0.MoveNext() in C:\Build\src\NServiceBus.Core\UnitOfWork\UnitOfWorkBehavior.cs:line 48
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\Build\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 25
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\Build\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 222
+2016-11-22 12:04:04.823 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message '80b73c73-dd14-4257-8370-a6c600c661c1' because of an exception:
+System.Exception: Unhandled exception
+   at OrchestrationBus.Settle.SettleModelHandler.Handle(SettleModel message, IMessageHandlerContext context) in H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Settle\SettleModelHandler.cs:line 36
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\Build\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 39
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\Build\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\Build\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MutateIncomingMessageBehavior.<Invoke>d__0.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\MutateInstanceMessage\MutateIncomingMessageBehavior.cs:line 28
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.<Invoke>d__0.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\MutateTransportMessage\MutateIncomingTransportMessageBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.UnitOfWorkBehavior.<Invoke>d__0.MoveNext() in C:\Build\src\NServiceBus.Core\UnitOfWork\UnitOfWorkBehavior.cs:line 26
+--- End of stack trace from previous location where exception was thrown ---
+   at NServiceBus.UnitOfWorkBehavior.<Invoke>d__0.MoveNext() in C:\Build\src\NServiceBus.Core\UnitOfWork\UnitOfWorkBehavior.cs:line 48
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\Build\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 25
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\Build\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 222
+2016-11-22 12:04:13.699 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message '80b73c73-dd14-4257-8370-a6c600c661c1' because of an exception:
+System.Exception: Unhandled exception
+   at OrchestrationBus.Settle.SettleModelHandler.Handle(SettleModel message, IMessageHandlerContext context) in H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Settle\SettleModelHandler.cs:line 36
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\Build\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 39
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\Build\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\Build\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MutateIncomingMessageBehavior.<Invoke>d__0.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\MutateInstanceMessage\MutateIncomingMessageBehavior.cs:line 28
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.<Invoke>d__0.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\MutateTransportMessage\MutateIncomingTransportMessageBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.UnitOfWorkBehavior.<Invoke>d__0.MoveNext() in C:\Build\src\NServiceBus.Core\UnitOfWork\UnitOfWorkBehavior.cs:line 26
+--- End of stack trace from previous location where exception was thrown ---
+   at NServiceBus.UnitOfWorkBehavior.<Invoke>d__0.MoveNext() in C:\Build\src\NServiceBus.Core\UnitOfWork\UnitOfWorkBehavior.cs:line 48
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\Build\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 25
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\Build\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 222
+2016-11-22 12:10:16.068 INFO  DefaultFactory Logging to 'H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Settle\bin\Debug\' with level Info
+2016-11-22 12:10:20.105 INFO  NServiceBus.LicenseManager License expires on 21/12/2016 12:00:00 AM
+2016-11-22 12:10:20.338 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'PETSURE\kumars' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "PETSURE\kumars" /add
+2016-11-22 12:10:21.202 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 12:10:21.211 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 12:10:21.220 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem download the latest powershell commandlets from http://www.particular.net downloads page.
+2016-11-22 12:11:58.299 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'a90cec78-9993-408b-a349-a6c600c89d08' because of an exception:
+System.Exception: Unhandled exception
+   at OrchestrationBus.Settle.SettleModelHandler.Handle(SettleModel message, IMessageHandlerContext context) in H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Settle\SettleModelHandler.cs:line 36
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\Build\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 39
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\Build\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\Build\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MutateIncomingMessageBehavior.<Invoke>d__0.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\MutateInstanceMessage\MutateIncomingMessageBehavior.cs:line 28
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.<Invoke>d__0.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\MutateTransportMessage\MutateIncomingTransportMessageBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.UnitOfWorkBehavior.<Invoke>d__0.MoveNext() in C:\Build\src\NServiceBus.Core\UnitOfWork\UnitOfWorkBehavior.cs:line 26
+--- End of stack trace from previous location where exception was thrown ---
+   at NServiceBus.UnitOfWorkBehavior.<Invoke>d__0.MoveNext() in C:\Build\src\NServiceBus.Core\UnitOfWork\UnitOfWorkBehavior.cs:line 48
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\Build\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 25
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\Build\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 222
+2016-11-22 12:12:04.455 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'a90cec78-9993-408b-a349-a6c600c89d08' because of an exception:
+System.Exception: Unhandled exception
+   at OrchestrationBus.Settle.SettleModelHandler.Handle(SettleModel message, IMessageHandlerContext context) in H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Settle\SettleModelHandler.cs:line 36
+   at lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in C:\Build\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:line 39
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in C:\Build\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:line 21
+   at NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) in C:\Build\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:line 27
+   at lambda_method(Closure , IInvokeHandlerContext )
+   at NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MutateIncomingMessageBehavior.<Invoke>d__0.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\MutateInstanceMessage\MutateIncomingMessageBehavior.cs:line 28
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:line 31
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.<Invoke>d__0.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\MutateTransportMessage\MutateIncomingTransportMessageBehavior.cs:line 27
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.UnitOfWorkBehavior.<Invoke>d__0.MoveNext() in C:\Build\src\NServiceBus.Core\UnitOfWork\UnitOfWorkBehavior.cs:line 26
+--- End of stack trace from previous location where exception was thrown ---
+   at NServiceBus.UnitOfWorkBehavior.<Invoke>d__0.MoveNext() in C:\Build\src\NServiceBus.Core\UnitOfWork\UnitOfWorkBehavior.cs:line 48
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() in C:\Build\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:line 25
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() in C:\Build\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:line 40
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:line 37
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() in C:\Build\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:line 32
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.<Process>d__29.MoveNext() in C:\BuildAgent\work\ef98ad7376e3379a\src\NServiceBus.RabbitMQ\Receiving\MessagePump.cs:line 222

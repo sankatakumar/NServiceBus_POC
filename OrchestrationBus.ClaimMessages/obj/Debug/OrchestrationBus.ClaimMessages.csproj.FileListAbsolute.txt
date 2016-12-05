@@ -1,0 +1,7 @@
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.ClaimMessages\bin\Debug\OrchestrationBus.ClaimMessages.dll
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.ClaimMessages\bin\Debug\OrchestrationBus.ClaimMessages.pdb
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.ClaimMessages\obj\Debug\OrchestrationBus.ClaimMessages.dll
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.ClaimMessages\obj\Debug\OrchestrationBus.ClaimMessages.pdb
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.ClaimMessages\bin\Debug\NServiceBus.Core.dll
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.ClaimMessages\bin\Debug\NServiceBus.Core.pdb
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.ClaimMessages\bin\Debug\NServiceBus.Core.xml

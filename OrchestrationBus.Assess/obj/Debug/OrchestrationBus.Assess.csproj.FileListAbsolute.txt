@@ -1,0 +1,15 @@
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Assess\bin\Debug\OrchestrationBus.Assess.exe.config
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Assess\bin\Debug\OrchestrationBus.Assess.exe
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Assess\bin\Debug\OrchestrationBus.Assess.pdb
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Assess\obj\Debug\OrchestrationBus.Assess.csprojResolveAssemblyReference.cache
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Assess\obj\Debug\OrchestrationBus.Assess.exe
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Assess\obj\Debug\OrchestrationBus.Assess.pdb
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Assess\bin\Debug\NServiceBus.Core.dll
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Assess\bin\Debug\NServiceBus.Transports.RabbitMQ.dll
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Assess\bin\Debug\OrchestrationBus.ClaimMessages.dll
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Assess\bin\Debug\RabbitMQ.Client.dll
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Assess\bin\Debug\OrchestrationBus.ClaimMessages.pdb
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Assess\bin\Debug\NServiceBus.Core.pdb
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Assess\bin\Debug\NServiceBus.Core.xml
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Assess\bin\Debug\NServiceBus.Transports.RabbitMQ.pdb
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Assess\bin\Debug\NServiceBus.Transports.RabbitMQ.xml

@@ -1,0 +1,15 @@
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Lodge\bin\Debug\OrchestrationBus.Lodge.exe.config
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Lodge\bin\Debug\OrchestrationBus.Lodge.exe
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Lodge\bin\Debug\OrchestrationBus.Lodge.pdb
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Lodge\obj\Debug\OrchestrationBus.Lodge.csprojResolveAssemblyReference.cache
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Lodge\obj\Debug\OrchestrationBus.Lodge.exe
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Lodge\obj\Debug\OrchestrationBus.Lodge.pdb
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Lodge\bin\Debug\NServiceBus.Core.dll
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Lodge\bin\Debug\NServiceBus.Transports.RabbitMQ.dll
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Lodge\bin\Debug\OrchestrationBus.ClaimMessages.dll
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Lodge\bin\Debug\RabbitMQ.Client.dll
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Lodge\bin\Debug\OrchestrationBus.ClaimMessages.pdb
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Lodge\bin\Debug\NServiceBus.Core.pdb
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Lodge\bin\Debug\NServiceBus.Core.xml
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Lodge\bin\Debug\NServiceBus.Transports.RabbitMQ.pdb
+H:\SampleApplications\NServiceBus\OrchestrationBus\OrchestrationBus.Lodge\bin\Debug\NServiceBus.Transports.RabbitMQ.xml
